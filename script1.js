@@ -28,10 +28,10 @@ if (d > '100' || e > '100'){
 let a = '2';
 let b = '3';
 // Код выше изменять менять нельзя, чтобы решить задачу исправьте код ниже: 
-alert(a + b);
+Number(a + b);
 
 // Задание 5
-let monthNumber = String(prompt('Введите номер месяца'));
+let monthNumber = prompt('Введите номер месяца');
 
 switch (monthNumber) {
     case '12':
