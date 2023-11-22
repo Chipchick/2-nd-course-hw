@@ -56,6 +56,7 @@ user["city of residence"] = "Саров";
 user.age = 12;
 
 
+
 // Задание 9.3
 delete ["city of residence"]
 
